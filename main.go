@@ -4,9 +4,11 @@ import (
 	"bufio"
 	"fmt"
 	"log"
+	"math/rand"
 	"os"
 	"regexp"
 	"strings"
+	"time"
 )
 
 func main() {
@@ -15,6 +17,12 @@ func main() {
 	for index, word := range words {
 		fmt.Println(index, "--", word)
 	}
+	var response string
+	test := GetWord(words)
+	fmt.Printf("Try the following word: %s\n", test)
+	fmt.Printf("What did you get? (b)lack, (y)ellow, (g)reen\n")
+	// TODO check validity of input
+	fmt.Scanln(&response)
 }
 
 // LoadWords(file path) -> list of valid words
@@ -50,4 +58,11 @@ func LoadWords(path string) []string {
 	}
 
 	return words
+}
+
+func GetWord(words []string) string {
+	rand.Seed(time.Now().UnixNano())
+	randomIndex := rand.Intn(len(words))
+	pick := words[randomIndex]
+	return pick
 }
