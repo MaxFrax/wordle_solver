@@ -23,7 +23,7 @@ func main() {
 		fmt.Printf("What did you get? (b)lack, (y)ellow, (g)reen\n")
 		// TODO check validity of input
 		fmt.Scanln(&response)
-		fmt.Printf("\nReceived: %s", response)
+		fmt.Printf("\nReceived: %s\n", response)
 
 		if len(response) > 0 {
 			words = FilterWords(words, test, response)
@@ -77,6 +77,7 @@ func FilterWords(toFilter []string, tested string, response string) []string {
 
 	blacks := make([]byte, 0)
 	others := make([]byte, 0)
+	y_rexes := make([]string, 0)
 	var g_rex string
 
 	for i, r := range response {
@@ -86,6 +87,19 @@ func FilterWords(toFilter []string, tested string, response string) []string {
 		} else if r == 'y' {
 			others = append(others, tested[i])
 			g_rex = g_rex + "."
+
+			var y_rex string
+
+			for j := 0; j < 5; j++ {
+				if j == i {
+					y_rex += string(tested[i])
+				} else {
+					y_rex += "."
+				}
+			}
+
+			y_rexes = append(y_rexes, y_rex)
+
 		} else {
 			others = append(others, tested[i])
 			g_rex = g_rex + string(tested[i])
@@ -130,7 +144,19 @@ func FilterWords(toFilter []string, tested string, response string) []string {
 			continue
 		}
 
-		// TODO remove all words that have yellow letters in the current position
+		// Remove all words that have yellow letters in the current position
+		toSkip = false
+
+		for _, rex := range y_rexes {
+			if res, _ := regexp.MatchString(rex, word); res {
+				toSkip = true
+			}
+		}
+
+		if toSkip {
+			continue
+		}
+
 		filtered = append(filtered, word)
 	}
 
