@@ -66,10 +66,34 @@ func LoadWords(path string) []string {
 }
 
 func GetWord(words []string) string {
-	rand.Seed(time.Now().UnixNano())
-	randomIndex := rand.Intn(len(words))
-	pick := words[randomIndex]
+
+	pick := "aa"
+
+	for i := 0; i < len(words) && checkDoubles(pick); i++ {
+		rand.Seed(time.Now().UnixNano())
+		randomIndex := rand.Intn(len(words))
+		pick = words[randomIndex]
+	}
+
 	return pick
+}
+
+func checkDoubles(word string) bool {
+
+	occurrence := make(map[byte]bool, 0)
+
+	for i := 0; i < len(word); i++ {
+		c := word[i]
+		_, ok := occurrence[c]
+
+		if ok {
+			return true
+		} else {
+			occurrence[c] = true
+		}
+	}
+
+	return false
 }
 
 func FilterWords(toFilter []string, tested string, response string) []string {
