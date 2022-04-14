@@ -787,7 +787,6 @@ alton
 altos
 altro
 altun
-altus
 aluco
 aluin
 alula
@@ -3755,7 +3754,6 @@ cheet
 chefs
 chego
 cheir
-cheju
 cheka
 cheke
 cheki
@@ -7389,7 +7387,6 @@ funda
 fundi
 fundy
 funds
-funge
 fungi
 fungo
 funic
@@ -8224,7 +8221,6 @@ grits
 groan
 groat
 grobe
-grofe
 groff
 grogs
 groin
@@ -9168,7 +9164,6 @@ huave
 hubba
 hubby
 hubey
-huber
 hubie
 hubli
 hucar
@@ -13928,7 +13923,6 @@ noily
 noils
 noint
 noyon
-noire
 noise
 noisy
 nokta
@@ -14323,7 +14317,6 @@ onces
 oncet
 oncia
 oncin
-onder
 oneal
 oneco
 onega
@@ -14582,7 +14575,6 @@ ovest
 oveta
 ovett
 ovida
-ovile
 ovine
 ovism
 ovist
@@ -15364,7 +15356,6 @@ plott
 plotx
 plotz
 plouk
-plout
 plows
 pluck
 pluff
