@@ -21,12 +21,17 @@ func main() {
 		test := GetWord(words)
 		fmt.Printf("Try the following word: %s\n", test)
 		fmt.Printf("What did you get? (b)lack, (y)ellow, (g)reen\n")
-		// TODO check validity of input
 		fmt.Scanln(&response)
 		fmt.Printf("\nReceived: %s\n", response)
 
-		if len(response) > 0 {
+		valid := checkInputValidity(response)
+
+		if len(response) > 0 && valid {
 			words = FilterWords(words, test, response)
+		}
+
+		if !valid {
+			fmt.Println("ERROR: Invalid input!")
 		}
 	}
 }
@@ -194,5 +199,18 @@ func contains(s []byte, e byte) bool {
 			return true
 		}
 	}
+	return false
+}
+
+func checkInputValidity(input string) bool {
+
+	if len(input) != 5 {
+		return false
+	}
+
+	if res, _ := regexp.MatchString("(g|b|y){5}", input); res {
+		return true
+	}
+
 	return false
 }
