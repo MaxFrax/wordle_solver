@@ -12,7 +12,9 @@ import (
 )
 
 func main() {
+
 	words := LoadWords("words.txt")
+	words_file := LoadWords("words.txt")
 
 	var response string
 	// Begin loop
@@ -28,6 +30,12 @@ func main() {
 
 		if len(response) > 0 && valid {
 			words = FilterWords(words, test, response)
+		}
+
+		if response == "c" {
+			words_file = remove(words_file, test)
+			WriteWords("words.txt", words_file)
+			fmt.Printf("Removed: %s\n", test)
 		}
 
 		if !valid {
@@ -70,13 +78,35 @@ func LoadWords(path string) []string {
 	return words
 }
 
+func WriteWords(path string, words []string) {
+	log.Printf("WriteWords %s\n", path)
+
+	f, err := os.Create(path)
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer f.Close()
+
+	for _, word := range words {
+
+		_, err := f.WriteString(word + "\n")
+
+		if err != nil {
+			log.Fatal(err)
+		}
+	}
+}
+
 func GetWord(words []string) string {
 
 	pick := "aa"
+	randomIndex := -1
 
 	for i := 0; i < len(words) && checkDoubles(pick); i++ {
 		rand.Seed(time.Now().UnixNano())
-		randomIndex := rand.Intn(len(words))
+		randomIndex = rand.Intn(len(words))
 		pick = words[randomIndex]
 	}
 
@@ -102,6 +132,8 @@ func checkDoubles(word string) bool {
 }
 
 func FilterWords(toFilter []string, tested string, response string) []string {
+	// TODO cosa succede parola corretta dodge e c'è c'ho la d centrale green su bodge? Mi cancella dodge?
+
 	filtered := make([]string, 0)
 
 	blacks := make([]byte, 0)
@@ -213,4 +245,20 @@ func checkInputValidity(input string) bool {
 	}
 
 	return false
+}
+
+func remove(s []string, to_remove string) []string {
+	i := -1
+	for i = range s {
+		if s[i] == to_remove {
+			break
+		}
+	}
+
+	if i < 0 {
+		return s
+	}
+
+	s[i] = s[len(s)-1]
+	return s[:len(s)-1]
 }

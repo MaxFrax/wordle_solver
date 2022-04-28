@@ -13712,7 +13712,7 @@ nessa
 nessi
 nessy
 nesta
-nesty
+zupus
 nesto
 nests
 neter
@@ -18377,7 +18377,7 @@ sosna
 soter
 sotho
 soths
-sotie
+zwick
 sotik
 sotol
 sotos
@@ -19621,7 +19621,7 @@ thuoc
 thury
 thurl
 thurm
-thurs
+zurek
 thurt
 tiana
 tiang
@@ -20398,7 +20398,7 @@ ummps
 umont
 umped
 umpty
-umset
+zwart
 unact
 unadd
 unais
@@ -21935,9 +21935,4 @@ zuian
 zulch
 zullo
 zulus
-zunis
-zupus
-zurek
-zwart
 zweig
-zwick
