@@ -928,7 +928,7 @@ amsat
 amsel
 amuck
 amula
-amund
+zuian
 amuse
 amuze
 amvet
@@ -2174,7 +2174,7 @@ belen
 belga
 belia
 belie
-belis
+zweig
 bella
 belle
 belli
@@ -5506,7 +5506,7 @@ donal
 donar
 donas
 donat
-donau
+zudda
 donax
 doncy
 dondi
@@ -7158,7 +7158,7 @@ folky
 folks
 folly
 fomes
-fomor
+zucco
 fonda
 fonds
 fondu
@@ -8865,7 +8865,7 @@ hield
 hiems
 hyena
 hienz
-hiera
+zulus
 hiett
 higgs
 highs
@@ -9786,7 +9786,7 @@ yreka
 irena
 irene
 ireos
-irfan
+zullo
 irgun
 irian
 irido
@@ -10954,7 +10954,7 @@ knows
 knurl
 knurs
 knute
-knuth
+zulch
 koala
 koali
 koans
@@ -21929,10 +21929,3 @@ zowie
 zprsn
 zrich
 zrike
-zucco
-zudda
-zuian
-zulch
-zullo
-zulus
-zweig
