@@ -1447,7 +1447,7 @@ aster
 astir
 astms
 aston
-astor
+zowie
 astra
 astre
 astri
@@ -9095,7 +9095,7 @@ horas
 horde
 horeb
 horim
-horla
+zrike
 horme
 horne
 horny
@@ -10039,7 +10039,7 @@ jarde
 jareb
 jared
 jarek
-jaret
+zrich
 jarib
 jarid
 jarls
@@ -10344,7 +10344,7 @@ jumna
 jumpy
 jumps
 junco
-jundy
+zprsn
 junet
 junia
 junie
@@ -18769,7 +18769,7 @@ store
 story
 stork
 storm
-storz
+zosma
 stosh
 stoss
 stott
@@ -21924,8 +21924,3 @@ zoril
 zoris
 zorro
 zoser
-zosma
-zowie
-zprsn
-zrich
-zrike
