@@ -3486,7 +3486,7 @@ caryn
 carks
 carla
 carle
-carli
+zorro
 carly
 carlo
 carls
@@ -3978,7 +3978,7 @@ cited
 citee
 citer
 cites
-cytol
+zoser
 cyton
 citra
 citua
@@ -16927,7 +16927,7 @@ saint
 saiph
 saire
 sayre
-sairy
+zoris
 sayst
 saite
 saith
@@ -21921,6 +21921,3 @@ zooty
 zoque
 zorah
 zoril
-zoris
-zorro
-zoser
