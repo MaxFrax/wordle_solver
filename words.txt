@@ -1280,7 +1280,7 @@ armen
 armer
 armet
 armil
-armin
+zoona
 armyn
 armit
 armor
@@ -1290,7 +1290,7 @@ arnee
 arney
 arnel
 arnie
-arnim
+zooty
 arnon
 arnot
 arnst
@@ -7234,7 +7234,7 @@ fract
 frags
 fraya
 fraid
-fraik
+zoons
 frail
 frayn
 frays
@@ -10254,7 +10254,7 @@ joppa
 joram
 joree
 jorey
-jorge
+zoril
 jorie
 jorin
 joris
@@ -11348,7 +11348,7 @@ lased
 laser
 lases
 laski
-lasky
+zorah
 lasko
 lassa
 lasse
@@ -14455,7 +14455,7 @@ orten
 ortet
 ortho
 ortyx
-ortiz
+zooms
 ortol
 orton
 oruro
@@ -20085,7 +20085,7 @@ trist
 tryst
 trite
 trixi
-trixy
+zoque
 trmtr
 troad
 troak
@@ -21914,10 +21914,3 @@ zonks
 zonta
 zooid
 zooks
-zooms
-zoona
-zoons
-zooty
-zoque
-zorah
-zoril
