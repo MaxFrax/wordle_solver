@@ -2086,7 +2086,7 @@ bedew
 bedye
 bedim
 bedin
-bedip
+zonic
 bedog
 bedot
 bedub
@@ -2454,7 +2454,7 @@ birck
 birde
 birdy
 birds
-birdt
+zonks
 byres
 birky
 birks
@@ -3338,7 +3338,7 @@ cajou
 cajun
 caked
 cakey
-caker
+zonda
 cakes
 cakra
 calah
@@ -3403,7 +3403,7 @@ canal
 canap
 canby
 canch
-candi
+zomba
 candy
 cando
 canea
@@ -3412,7 +3412,7 @@ caney
 canel
 caner
 canes
-cangy
+zoldi
 canid
 canis
 canli
@@ -3492,7 +3492,7 @@ carlo
 carls
 carma
 carme
-carmi
+zonal
 carne
 carny
 carns
@@ -3580,13 +3580,13 @@ caves
 cavia
 cavie
 cavil
-cavin
+zombi
 cavit
 cavum
 cavus
 cawed
 cawky
-cawny
+zolle
 caxon
 cbema
 ccafs
@@ -3792,7 +3792,7 @@ chics
 chide
 chief
 chiel
-chien
+zolly
 child
 chile
 chyle
@@ -4495,7 +4495,7 @@ cracy
 crack
 craft
 crags
-craie
+zonar
 craye
 craig
 craik
@@ -8991,7 +8991,7 @@ hodur
 hoers
 hoeve
 hofei
-hofer
+zonta
 hoffa
 hofuf
 hogan
@@ -10927,7 +10927,7 @@ kneel
 knees
 knell
 knelt
-knezi
+zooks
 kniaz
 knyaz
 knick
@@ -11029,7 +11029,7 @@ korec
 korey
 koren
 korff
-korie
+zoned
 korin
 korma
 korns
@@ -14632,7 +14632,7 @@ pacts
 padda
 paddy
 paden
-padge
+zones
 padis
 padle
 padou
@@ -16582,7 +16582,7 @@ roede
 roehm
 rogan
 roger
-roget
+zooid
 rogue
 roguy
 rohan
@@ -16834,7 +16834,7 @@ ruthi
 ruthy
 ruths
 rutic
-rutyl
+zoner
 rutin
 rutty
 ruvid
@@ -17831,7 +17831,7 @@ synod
 sinon
 synop
 synth
-sinto
+zoist
 sintu
 sinus
 sioux
@@ -17978,7 +17978,7 @@ skiwy
 sklar
 skoal
 skoot
-skout
+zokor
 skros
 skuas
 skuld
@@ -21896,21 +21896,3 @@ zohak
 zohar
 zoila
 zoism
-zoist
-zokor
-zoldi
-zolle
-zolly
-zomba
-zombi
-zonal
-zonar
-zonda
-zoned
-zoner
-zones
-zonic
-zonks
-zonta
-zooid
-zooks
