@@ -6246,7 +6246,7 @@ enami
 enapt
 enarm
 enate
-encia
+zoila
 encyc
 encke
 encup
@@ -6949,7 +6949,7 @@ fiora
 fiord
 fiore
 fique
-firca
+zohar
 fired
 firer
 fires
@@ -7549,7 +7549,7 @@ garau
 garbe
 garbo
 garbs
-garce
+zogan
 garda
 garde
 gardy
@@ -9274,7 +9274,7 @@ yamph
 yamun
 iamus
 yanan
-yance
+zohak
 yancy
 yangs
 yanky
@@ -17008,7 +17008,7 @@ samul
 sanaa
 sanai
 sanbo
-sancy
+zoism
 sanct
 sande
 sandi
@@ -20779,7 +20779,7 @@ valve
 vaman
 vamos
 vamps
-vance
+zoeas
 vanda
 vaned
 vanes
@@ -21890,9 +21890,3 @@ zoara
 zocco
 zoeae
 zoeal
-zoeas
-zogan
-zohak
-zohar
-zoila
-zoism
