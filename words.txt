@@ -1265,7 +1265,7 @@ arkab
 arkie
 arlan
 arlee
-arley
+zoeae
 arlen
 arles
 arlie
@@ -6457,7 +6457,7 @@ estre
 estus
 etacc
 etana
-etang
+zocco
 etape
 ethal
 ethan
@@ -9681,7 +9681,7 @@ intis
 intnl
 intra
 intro
-intsv
+zloty
 intuc
 intue
 inuit
@@ -11804,7 +11804,7 @@ linty
 lints
 linum
 linus
-lynus
+zoeal
 linzy
 lions
 lyons
@@ -13236,7 +13236,7 @@ mosgu
 moshe
 moshi
 mosks
-mosra
+zmudz
 mossi
 mossy
 mosso
@@ -17467,7 +17467,7 @@ shaba
 shack
 shade
 shady
-shado
+zoaea
 shads
 shaef
 shaer
@@ -20079,7 +20079,7 @@ tripl
 tripp
 trips
 tript
-trisa
+zoara
 trish
 trist
 tryst
@@ -21883,10 +21883,3 @@ zizel
 zizia
 zizit
 zlote
-zloty
-zmudz
-zoaea
-zoara
-zocco
-zoeae
-zoeal
