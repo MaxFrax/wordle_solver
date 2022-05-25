@@ -4061,7 +4061,7 @@ clews
 clich
 click
 clide
-clyde
+zincy
 clyer
 cliff
 clift
@@ -5601,7 +5601,7 @@ douro
 douse
 douty
 dovap
-dovey
+zinco
 doven
 dover
 doves
@@ -6418,7 +6418,7 @@ ervin
 ervum
 erwin
 esbay
-esbon
+zineb
 escar
 escot
 escry
@@ -6534,7 +6534,7 @@ ewery
 ewers
 ewest
 ewhow
-ewing
+ziska
 ewold
 exact
 exalt
@@ -6588,7 +6588,7 @@ faber
 fabes
 fabio
 fable
-fabre
+zingy
 fabri
 faced
 facer
@@ -7853,7 +7853,7 @@ giuki
 giule
 giust
 gyved
-givey
+zymin
 given
 giver
 gives
@@ -7882,7 +7882,7 @@ glass
 glaum
 glaur
 glaux
-glave
+zipah
 glaze
 glazy
 glead
@@ -7985,7 +7985,7 @@ gobet
 gobia
 gobio
 gobos
-godey
+zinah
 godel
 godet
 godin
@@ -8283,7 +8283,7 @@ guasa
 guato
 guava
 guaza
-gubat
+zymes
 gubbo
 gucki
 gucks
@@ -9163,7 +9163,7 @@ huari
 huave
 hubba
 hubby
-hubey
+zimmi
 hubie
 hubli
 hucar
@@ -9174,7 +9174,7 @@ hudis
 huffy
 huffs
 hufuf
-hugel
+zimmy
 huger
 hugin
 hugli
@@ -9424,7 +9424,7 @@ yerba
 yerga
 yerks
 yermo
-ierna
+zitis
 ierne
 yerth
 yerva
@@ -9637,7 +9637,7 @@ injun
 inked
 inken
 inker
-inket
+zitah
 inkie
 inkle
 inkom
@@ -9756,7 +9756,7 @@ youze
 ioved
 yoven
 iover
-ioves
+zincs
 iowan
 iowas
 yowed
@@ -9841,7 +9841,7 @@ isnad
 isode
 isola
 isoln
-isolt
+zirak
 isort
 issei
 yssel
@@ -9883,7 +9883,7 @@ yukon
 yulan
 yulee
 yules
-yulma
+zimbi
 iulus
 yuman
 yumas
@@ -9968,7 +9968,7 @@ jagla
 jagra
 jagua
 jahel
-jahve
+zizit
 jahwe
 jayem
 jails
@@ -10193,7 +10193,7 @@ joane
 joann
 joash
 jobey
-jobie
+zinck
 jobye
 jocko
 jocks
@@ -10274,12 +10274,12 @@ jotas
 jotty
 jotun
 joual
-jough
+zihar
 jougs
 jouks
 joule
 joung
-journ
+zygon
 jours
 joust
 jouve
@@ -11408,7 +11408,7 @@ lawes
 lawks
 lawny
 lawns
-lawry
+zinke
 lawzy
 laxer
 laxly
@@ -11716,7 +11716,7 @@ liker
 likes
 lykes
 likin
-likud
+zizia
 lilac
 lilah
 lilas
@@ -11926,7 +11926,7 @@ loeil
 loess
 loewe
 loewi
-loewy
+zimme
 lofti
 lofty
 lofts
@@ -12491,7 +12491,7 @@ marid
 maryd
 marie
 maril
-maryl
+zings
 marin
 maryn
 mario
@@ -13313,7 +13313,7 @@ msphe
 mster
 mtbrp
 mtech
-mtier
+ziwot
 mttff
 muang
 mucic
@@ -15200,7 +15200,7 @@ piney
 pinel
 piner
 pines
-pinge
+zymic
 pingo
 pings
 pinic
@@ -15501,7 +15501,7 @@ poret
 porge
 porgy
 porgo
-poria
+zlote
 porky
 porks
 porny
@@ -15757,7 +15757,7 @@ punks
 punkt
 punny
 punta
-punti
+zills
 punty
 punto
 punts
@@ -16237,7 +16237,7 @@ reina
 reyna
 reine
 reink
-reyno
+ziram
 reins
 reiss
 reist
@@ -18081,7 +18081,7 @@ slosh
 slote
 sloth
 slots
-slour
+zirai
 slows
 slubs
 slued
@@ -18377,7 +18377,7 @@ sosna
 soter
 sotho
 soths
-zwick
+zizel
 sotik
 sotol
 sotos
@@ -18523,7 +18523,7 @@ splet
 split
 spock
 spode
-spohr
+zippy
 spoil
 spoke
 spoky
@@ -20350,7 +20350,7 @@ ulcus
 uledi
 uleki
 ulema
-ulent
+zilla
 ulick
 ulita
 uller
@@ -21363,7 +21363,7 @@ weren
 werra
 wersh
 wertz
-wesco
+zingg
 weser
 wesla
 wesle
@@ -21446,7 +21446,7 @@ whirr
 whirs
 whish
 whisk
-whisp
+zilch
 whiss
 whist
 white
@@ -21847,39 +21847,3 @@ ziega
 ziffs
 zygal
 zigan
-zygon
-zihar
-zilch
-zilla
-zills
-zimbi
-zymes
-zymic
-zymin
-zimme
-zimmi
-zimmy
-zinah
-zincy
-zinck
-zinco
-zincs
-zineb
-zingg
-zingy
-zings
-zinke
-zinky
-zipah
-zippy
-zirai
-zirak
-ziram
-ziska
-zitah
-zitis
-ziwot
-zizel
-zizia
-zizit
-zlote
